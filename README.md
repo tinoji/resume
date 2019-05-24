@@ -1,6 +1,6 @@
 resume
 ======
-[@tinoji](https://github.com/tinoji)の履歴書兼職務経歴書でーす。およそ半期ごとに更新されるはずです。
+[@tinoji](https://github.com/tinoji)の履歴書兼職務経歴書でーす。少なくとも半期ごとに更新されるはずです。
 
 <br>
 
@@ -27,7 +27,7 @@ resume
 -------
 ### 2017/04 - 現在 : 合同会社 DMM.com
 #### 2017/8 - 現在 : 動画配信事業部 配信基盤チーム エンジニア
-Web・アプリケーションエンジニアとして2017年に新卒入社。チームの新設から数ヶ月後にジョインし、DevOps系ツール・開発環境の整備、インフラ・データベースの設計、サーバーサイド開発、ネイティブアプリケーション開発、クラウド環境の構築、動画のライブ配信、PM的な役割などなど、とにかく幅広く担当しました。言語もプロダクトに合わせてGo、Lua、Kotlin(Android)、JavaScript、Python、PHP、Ruby(Rails) etc...と多くのものを使用しました。また、Gitワークフローの整備やサービスレベルの設定、ポストモーテムの徹底化などの姑的な業務も行いました。
+Web・アプリケーションエンジニアとして2017年に新卒入社。チームの新設から数ヶ月後にジョインし、DevOps系ツール・開発環境の整備、インフラ・データベースの設計、サーバーサイド開発、ネイティブアプリケーション開発、クラウド環境の構築、動画のライブ配信、PM的な役割などなど、幅広く担当しました。言語もプロダクトに合わせてGo、Lua、Kotlin(Android)、JavaScript、Python、PHP、Ruby(Rails) etc...と多くのものを使用しました。また、Gitワークフローの整備やサービスレベルの設定、ポストモーテムの徹底化などの姑的な業務も行いました。
 
 ##### 社内における業務外活動
 - 登壇
@@ -51,13 +51,16 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 |Date|Event|Slide|
 |---|---|---|
+|2019/5/10|慶應義塾大学KCSxDMM 合同LT会|(資料は非公開) 詳しくは執筆の項を参照。|
 |2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
 |2019/3/4|京大マイコンクラブ-DMM交流会| (資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd) |
 |2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul) |
 
+
 ### 執筆
 |Date|Article|
 |---|---|
+|2019/5|[慶應義塾大学KCSxDMM 合同LT会レポート](https://inside.dmm.com/entry/2019/05/22/kcs-dmm-lt)|
 |2018/10|[DMM動画サービスの問題を解決しようとしている話（再生URL生成API編）](https://inside.dmm.com/entry/2018/10/17/create-playurl)|
 
 <br>
@@ -109,7 +112,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 - Datadog
     - 基本的な監視・アラーティング
 - Stackdriver
-    - Monitoring/Trace/Logging機能の利用
+    - Monitoring/Trace/Logging機能の利用経験
 
 ### テスト自動化
 - Selenium
@@ -138,6 +141,9 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 ### 開発手法
 - スクラム開発
     - 2年以上のスクラムチームでの開発経験
+
+### 動画配信
+- 基本的な動画配信の知識
 
 ### その他
 - 機械学習
@@ -186,7 +192,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 --------
 ### 2015/04 - 2017/03 京都大学農学研究科 森林科学専攻 生物繊維学研究室
 - 修士論文
-    - 『in situ 磁場配向を用いたタンパク質微結晶のＸ線単結晶構造解析』
+    - 『in-situ 磁場配向を用いたタンパク質微結晶のＸ線単結晶構造解析』
 - 受賞
     - 2016年11月，第11回日本磁気科学会年会 ポスター賞
 - 学会発表
@@ -232,5 +238,5 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 - 温泉・銭湯
 - 自作キーボード
     - [Nyquist](https://twitter.com/_tinoji/status/1082317802889895939)
-    - 全然使ってない:innocent:
+    - 作ったけど結局Barocco使ってます・・・
 
