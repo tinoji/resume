@@ -20,6 +20,7 @@ resume
 |Twitter|[@_tinoji](https://twitter.com/_tinoji)|
 |Qiita|[tinoji - Qiita](https://qiita.com/tinoji)|
 |Facebook|[菊地 弘晃 - Facebook](https://www.facebook.com/hiroaki.tinoji.kikuchi)|
+|連絡先|FBかTwitterで連絡ください。|
 
 <br>
 
@@ -49,12 +50,13 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 -------
 ### 登壇
 
-|Date|Event|Slide|
-|---|---|---|
-|2019/5/10|慶應義塾大学KCSxDMM 合同LT会|(資料は非公開) 詳しくは執筆の項を参照。|
-|2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
-|2019/3/4|京大マイコンクラブ-DMM交流会| (資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd) |
-|2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul) |
+|Date|Event|Type|Slide|
+|---|---|---|---|
+|2019/6/12|[Media-JAWS #2](https://media-jaws.doorkeeper.jp/events/91677)|セッション(10分)|[VODのディザスタリカバリをAWSで考えてみる](https://speakerdeck.com/tinoji/vodfalsedeizasutarikabariwoawsdekao-etemiru)|
+|2019/5/10|慶應義塾大学KCSxDMM 合同LT会|LT(10分)|(資料は非公開) 詳しくは執筆の項を参照。|
+|2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|LT(10分)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
+|2019/3/4|京大マイコンクラブ-DMM交流会|セッション(15分)|(資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd)|
+|2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|セッション(20分)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul)|
 
 
 ### 執筆
@@ -188,6 +190,20 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 <br>
 
 
+資格
+----
+- Machine Learning (Coursera)
+    - [Course Certificates](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)
+- 基本情報処理技術者
+    - 第FE-2015-10-11665号
+- 日商簿記検定試験 3級
+    - 144の3第23704
+- Oracle Certified Java Programmer, Bronze SE 7/8
+    - 249061807BRZSE78JPN
+
+<br>
+
+
 学歴/研究
 --------
 ### 2015/04 - 2017/03 京都大学農学研究科 森林科学専攻 生物繊維学研究室
@@ -217,26 +233,12 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 <br>
 
 
-資格
-----
-- Machine Learning (Coursera)
-    - [Course Certificates](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)
-- 基本情報処理技術者
-    - 第FE-2015-10-11665号
-- 日商簿記検定試験 3級
-    - 144の3第23704
-- Oracle Certified Java Programmer, Bronze SE 7/8
-    - 249061807BRZSE78JPN
-
-<br>
-
-
 趣味・好きなもの
 -------------
 - ラジオ
+    - オードリーのANNが一番好き。
 - 二郎系
 - 温泉・銭湯
 - 自作キーボード
     - [Nyquist](https://twitter.com/_tinoji/status/1082317802889895939)
     - 作ったけど結局Barocco使ってます・・・
-
