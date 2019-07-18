@@ -65,6 +65,12 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 |2019/5|[慶應義塾大学KCSxDMM 合同LT会レポート](https://inside.dmm.com/entry/2019/05/22/kcs-dmm-lt)|
 |2018/10|[DMM動画サービスの問題を解決しようとしている話（再生URL生成API編）](https://inside.dmm.com/entry/2018/10/17/create-playurl)|
 
+
+### 取材記事など
+|Date|Article|
+|---|---|
+|2019/7|[Media-JAWSで聞いた視聴者参加型コンテンツとVODの災害対策](https://ascii.jp/elem/000/001/893/1893281/)|
+
 <br>
 
 
@@ -78,17 +84,18 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
     - JavaScript(ES6~)
     - Python
     - PHP
-- 社内ツールの作成経験がある程度
+- そこそこ触ったことがあるもの
     - Ruby
     - Node.js
     - Java
-- 短期間触ったことがある程度
+    - SQL
+- かじった程度
     - Objective-C
 
 ### フレームワーク
-- 社内で使用するツールの作成経験がある
+- そこそこ触ったことがあるもの
     - Ruby on Rails
-- 短期間触ったことがある程度
+- かじった程度
     - Vue.js
     - Laravel
 
