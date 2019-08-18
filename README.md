@@ -82,6 +82,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
     - Lua (on OpenResty)
     - Android Kotlin
     - JavaScript(ES6~)
+    - C#(.Net Core)
     - Python
     - PHP
 - そこそこ触ったことがあるもの
@@ -116,6 +117,10 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
     - 基本的な知識・利用経験のみ 
 - Firebase Realtime Database
     - 基本的な知識・利用経験のみ
+
+### Webサーバ
+- Nginx, OpenResty
+    - 普通に使えるレベル
 
 ### ロギング系
 - Datadog
@@ -197,10 +202,12 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 <br>
 
 
-資格
-----
-- Machine Learning (Coursera)
-    - [Course Certificates](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)
+資格・修了証など
+-------------
+- Machine Learning (Coursera Course)
+    - [Certificates](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)
+- Developing Applications with Google Cloud Platform (Coursera Specialization)
+    - [Certificates](https://www.coursera.org/account/accomplishments/specialization/669HPPL75RD5)
 - 基本情報処理技術者
     - 第FE-2015-10-11665号
 - 日商簿記検定試験 3級
