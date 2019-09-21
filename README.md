@@ -74,8 +74,8 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 <br>
 
 
-スキル
------
+スキル・経験
+---------
 ### 言語
 - プロダクションのコードを書いた経験があるもの
     - Go
@@ -105,6 +105,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
     - EC2、Lambda、CloudFront等の基本的なサービスの構築・運用経験
     - AWS MediaLive及びその他のMedia Servicesを利用したライブ配信経験
 - GCP
+    - Professional Cloud Developer保有(資格の項を参照)
     - GAE/Go、Datastore、CI/CD系コンポーネント、Stackdriverなどのスタック構築・運用経験
 
 ### データベース
@@ -132,7 +133,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 - Selenium
     - 基本的な知識
 - Katalon Studio
-    - 動画プレイヤー(Webブラウザ)のE2Eテスト自動化の経験
+    - 動画プレイヤー(Webブラウザ)のE2Eテスト自動化
 
 ### ジョブスケジューラ
 - Rundeck
@@ -148,9 +149,9 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 ### SRE
 - サービスレベル
-    - チームプロダクトにおけるSLO/SLAの設定
+    - チームプロダクトにおけるSLO/SLAの設定・運用
 - インシデント管理
-    - ポストモーテム・インシデントドキュメントの提案・運用
+    - ポストモーテム・インシデントドキュメントの管理・運用
 
 ### 開発手法
 - スクラム開発
@@ -158,6 +159,8 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 ### 動画配信
 - 基本的な動画配信の知識
+- AWS Media Servicesによるライブ配信
+- クラウド(AWS)を利用したバックアップ・DR環境の構築
 
 ### その他
 - 機械学習
@@ -167,7 +170,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 - Huggin
     - 構築・運用
 - Slack
-    - 簡単なHubotの作成
+    - botの作成等
 - neovim
     - [GitHub - tinoji/dotfiles](https://github.com/tinoji/dotfiles)
 - IoT
@@ -177,16 +180,16 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 <br>
 
 
-強み
-----
-(求職するときに書く)
-
-<br>
-
-
-今後やっていきたいこと
-----------------
-(求職するときに書く)
+資格・修了証など
+-------------
+|Certification|Certificate|
+|---|---|
+|Google Cloud Professional Cloud Developer|[Link](https://www.credential.net/rbcqalqj?key=6f5f55cc13928d328ea559bc0f5aec9d2be1104a14d13295addec1e13a667dba)|
+|Developing Applications with Google Cloud Platform (Coursera Specialization)|[Link](https://www.coursera.org/account/accomplishments/specialization/669HPPL75RD5)|
+|Machine Learning (Coursera Course)|[Link](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)|
+|基本情報処理技術者|第FE-2015-10-11665号|
+|日商簿記検定試験 3級|144の3第23704|
+|Oracle Certified Java Programmer, Bronze SE 7/8|249061807BRZSE78JPN|
 
 <br>
 
@@ -198,22 +201,6 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 - 英語
   - 基本的な読み書きのみ
   - TOEIC: 830点
-
-<br>
-
-
-資格・修了証など
--------------
-- Machine Learning (Coursera Course)
-    - [Certificates](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)
-- Developing Applications with Google Cloud Platform (Coursera Specialization)
-    - [Certificates](https://www.coursera.org/account/accomplishments/specialization/669HPPL75RD5)
-- 基本情報処理技術者
-    - 第FE-2015-10-11665号
-- 日商簿記検定試験 3級
-    - 144の3第23704
-- Oracle Certified Java Programmer, Bronze SE 7/8
-    - 249061807BRZSE78JPN
 
 <br>
 
