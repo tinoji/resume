@@ -1,6 +1,6 @@
 resume
 ======
-[@tinoji](https://github.com/tinoji)の履歴書兼職務経歴書でーす。少なくとも半期ごとに更新されるはずです。
+[@tinoji](https://github.com/tinoji)の履歴書 兼 職務経歴書 兼 スキルマップ。
 
 <br>
 
@@ -14,7 +14,7 @@ resume
 基本情報
 -------
 
-|うぇい|そいや|
+| | |
 |---|-----|
 |Name|菊地 弘晃(きくち ひろあき)|
 |Twitter|[@_tinoji](https://twitter.com/_tinoji)|
@@ -27,21 +27,8 @@ resume
 職務経歴
 -------
 ### 2017/04 - 現在 : 合同会社 DMM.com
-#### 2017/8 - 現在 : 動画配信事業部 配信基盤チーム エンジニア
+#### 2017/8 - 現在 : 動画配信事業部 配信基盤チーム Webエンジニア
 Web・アプリケーションエンジニアとして2017年に新卒入社。チームの新設から数ヶ月後にジョインし、DevOps系ツール・開発環境の整備、インフラ・データベースの設計、サーバーサイド開発、ネイティブアプリケーション開発、クラウド環境の構築、動画のライブ配信、PM的な役割などなど、幅広く担当しました。言語もプロダクトに合わせてGo、Lua、Kotlin(Android)、JavaScript、Python、PHP、Ruby(Rails) etc...と多くのものを使用しました。また、Gitワークフローの整備やサービスレベルの設定、ポストモーテムの徹底化などの姑的な業務も行いました。
-
-#### 社内における業務外活動
-- 登壇
-    - LT: 4回程度
-    - 勉強会: 2回程度
-- 輪読会
-    - [SRE サイトリライアビリティエンジニアリング](https://www.oreilly.co.jp/books/9784873117911/)
-- 採用活動
-    - 4ヶ月で50人ぐらいの学生と会うという実績を解除しました:wink:
-- 有志での開発プロジェクト
-    - 業務フロー改善プロジェクト(G Suite + Node.js on AWS + Slack Bot)
-- ビジネスコンテスト
-    - 2017年 本選出場
 
 <br>
 
@@ -61,7 +48,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 |2019/6/12|[Media-JAWS #2](https://media-jaws.doorkeeper.jp/events/91677)|セッション(10分)|[VODのディザスタリカバリをAWSで考えてみる](https://speakerdeck.com/tinoji/vodfalsedeizasutarikabariwoawsdekao-etemiru)|
 |2019/5/10|慶應義塾大学KCSxDMM 合同LT会|LT(10分)|(資料は非公開) 詳しくは執筆の項を参照。|
 |2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|LT(10分)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
-|2019/3/4|京大マイコンクラブ-DMM交流会|セッション(15分)|(資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd)|
+|2019/3/4|京大マイコンクラブxDMM交流会|セッション(15分)|(資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd)|
 |2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|セッション(20分)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul)|
 
 
@@ -75,6 +62,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 ### 取材記事など
 |Date|Article|
 |---|---|
+|2020/1|[よんでますよ、野秋さん #4 (対談)](https://inside.dmm.com/entry/2020/01/23/yondemasu04)|
 |2019/7|[Media-JAWSで聞いた視聴者参加型コンテンツとVODの災害対策](https://ascii.jp/elem/000/001/893/1893281/)|
 
 <br>
@@ -130,7 +118,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
     - 基本的な知識・利用経験のみ
 
 ### Webサーバ
-- Nginx, OpenResty
+- nginx, OpenResty
     - 普通に使えるレベル
 
 ### CI/CD
@@ -176,8 +164,8 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 ### 動画配信
 - 基本的な動画配信の知識
-- AWS Media Servicesによるライブ配信
-- クラウド(AWS)を利用したバックアップ・DR環境の構築
+- AWS Media Services
+    - MediaLiveを利用したライブ配信
 
 ### 機械学習
 - スタンフォード大学 Machine Learningコース修了
@@ -259,9 +247,6 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 趣味・好きなもの
 -------------
 - ラジオ
-    - オードリーのANNが一番好き。
 - 二郎系
 - 温泉・銭湯
-- 自作キーボード
-    - [Nyquist](https://twitter.com/_tinoji/status/1082317802889895939)
-    - 作ったけど結局Barocco使ってます・・・
+- 割れたキーボード
