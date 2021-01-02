@@ -14,12 +14,13 @@ resume
 基本情報
 -------
 
-| | |
-|---|-----|
+
 |Name|菊地 弘晃(きくち ひろあき)|
-|Twitter|[@_tinoji](https://twitter.com/_tinoji)|
-|Qiita|[tinoji - Qiita](https://qiita.com/tinoji)|
-|Facebook|[菊地 弘晃 - Facebook](https://www.facebook.com/hiroaki.tinoji.kikuchi)|
+|---|-----|
+|Twitter|https://twitter.com/_tinoji|
+|Qiita|https://qiita.com/tinoji|
+|Zenn|https://zenn.dev/tinoji|
+|Facebook|https://www.facebook.com/hiroaki.tinoji.kikuchi|
 |連絡先|FBかTwitterで連絡ください。|
 
 <br>
@@ -32,9 +33,10 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 <br>
 
-### 2019/09 - 現在 : 株式会社アダコテック(副業)
-#### 2019/09 - 現在 : SaaSプロジェクト サーバーサイドエンジニア
+### 2019/09 - 2020/12 : 株式会社アダコテック(副業)
+#### 2019/09 - 2020/12 : SaaSプロジェクト サーバーサイドエンジニア
 製造業向け機械学習SaaSプロジェクトにおいて、サーバーサイドおよびクラウドの設計・開発を行いました。
+https://adacotech.co.jp/news/2402
 
 
 <br>
@@ -46,9 +48,7 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 |Date|Event|Type|Slide|
 |---|---|---|---|
 |2019/6/12|[Media-JAWS #2](https://media-jaws.doorkeeper.jp/events/91677)|セッション(10分)|[VODのディザスタリカバリをAWSで考えてみる](https://speakerdeck.com/tinoji/vodfalsedeizasutarikabariwoawsdekao-etemiru)|
-|2019/5/10|慶應義塾大学KCSxDMM 合同LT会|LT(10分)|(資料は非公開) 詳しくは執筆の項を参照。|
 |2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|LT(10分)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
-|2019/3/4|京大マイコンクラブxDMM交流会|セッション(15分)|(資料は非公開) Twitterハッシュタグ: [#kmc_dmm](https://twitter.com/search?q=%23kmc_dmm&src=typd)|
 |2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|セッション(20分)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul)|
 
 
@@ -73,11 +73,11 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 ### 言語
 - プロダクションのコードを書いた経験があるもの
     - Go
+    - Python
     - Lua (on OpenResty)
     - Android Kotlin
     - JavaScript(ES6~)
     - C#(.Net Core)
-    - Python
     - PHP
 - そこそこ触ったことがあるもの
     - Ruby
@@ -91,8 +91,8 @@ Web・アプリケーションエンジニアとして2017年に新卒入社。�
 
 ### フレームワーク
 - そこそこ触ったことがあるもの
-    - Ruby on Rails
     - Flask
+    - Ruby on Rails
 - かじった程度
     - Chalice
     - Vue.js
