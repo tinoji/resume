@@ -4,13 +4,6 @@ resume
 
 <br>
 
-現在の求職ステータス
------------------
-**今のところ求職中ではありません**:v:
-
-<br>
-
-
 基本情報
 -------
 
@@ -21,7 +14,7 @@ resume
 |Qiita|https://qiita.com/tinoji|
 |Zenn|https://zenn.dev/tinoji|
 |Facebook|https://www.facebook.com/hiroaki.tinoji.kikuchi|
-|連絡先|FBかTwitterで連絡ください。|
+|連絡先|MessengerかTwitterで連絡ください。|
 
 <br>
 
