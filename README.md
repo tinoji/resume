@@ -21,7 +21,7 @@ SNS
 |---|-----|
 |Twitter|https://twitter.com/_tinoji|
 |Facebook|https://www.facebook.com/hiroaki.tinoji.kikuchi|
-|Lapras|https://lapras.com/public/DA4JKIN|
+|LAPRAS|https://lapras.com/public/DA4JKIN|
 |Qiita|https://qiita.com/tinoji|
 |Zenn|https://zenn.dev/tinoji|
 |Speaker Deck|https://speakerdeck.com/tinoji|
