@@ -186,7 +186,6 @@ SNS
     - [Crystal System Determination from X-ray Diffraction of Magnetically Oriented Microcrystal Suspensions](https://pubs.acs.org/doi/abs/10.1021/cg501357b)
 - その他
     - 2014年8月, 世界結晶年 対称性・群論トレーニングコース修了 ＠高エネルギー加速器研究機構
-    - 意識高い系こじらせて余剰単位43取った。
 
 <br>
 
