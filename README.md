@@ -2,6 +2,10 @@ tinojiの職務経歴書
 ======
 [@tinoji](https://github.com/tinoji)の職務経歴やスキルなどをまとめたページです。
 
+**表が読みづらい場合は[GitHub Pages](https://tinoji.github.io/resume/)をご覧ください。**
+
+<br>
+
 - [tinojiの職務経歴書](#tinojiの職務経歴書)
   - [どんなエンジニアか、どんなエンジニアでありたいか](#どんなエンジニアかどんなエンジニアでありたいか)
   - [基本情報](#基本情報)
@@ -190,7 +194,7 @@ SNS
 
 スキル・経験
 ---------
-:point_right: [スキルリスト](/skills.md)
+[スキルリスト](/skills.md)
 
 <br>
 
