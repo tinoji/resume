@@ -3,10 +3,11 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 64em)
 .main-content {
+  @include large {
     max-width: 80%;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
+  }
 }
