@@ -2,7 +2,7 @@ tinojiの職務経歴書
 ======
 [@tinoji](https://github.com/tinoji)の職務経歴やスキルなどをまとめたページです。
 
-**表が読みづらい場合は[GitHub Pages](https://tinoji.github.io/resume/)をご覧ください。**
+**表が狭くて見にくい場合は[GitHub Pages](https://tinoji.github.io/resume/)をご覧ください。**
 
 <br>
 
