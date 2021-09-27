@@ -203,6 +203,7 @@ SNS
 -------------
 |Certification|Certificate|
 |---|---|
+|CKAD: Certified Kubernetes Application Developer|[Link](https://www.credly.com/badges/346aa6dc-d059-4f44-bf62-49994f99c86e/public_url)|
 |Google Cloud Professional Cloud Developer|[Link](https://www.credential.net/rbcqalqj?key=6f5f55cc13928d328ea559bc0f5aec9d2be1104a14d13295addec1e13a667dba)|
 |Developing Applications with Google Cloud Platform (Coursera Specialization)|[Link](https://www.coursera.org/account/accomplishments/specialization/669HPPL75RD5)|
 |Machine Learning (Coursera Course)|[Link](https://www.coursera.org/account/accomplishments/verify/EDCWDNN9AHNJ)|
