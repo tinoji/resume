@@ -49,7 +49,7 @@ SNS
 -------
 |Name|URL|
 |---|-----|
-|X|https://twitter.com/_tinoji|
+|X|https://x.com/_tinoji|
 |YOUTRUST|https://youtrust.jp/users/0829a66da2c7906de8b440bc0be208c0|
 |LAPRAS|https://lapras.com/public/DA4JKIN|
 |Qiita|https://qiita.com/tinoji|
@@ -64,7 +64,7 @@ SNS
 ### 株式会社ニーリー
 【期間】2021/11 - 現在  
 【事業内容】月極駐車場SaaS  
-【当時の社員数】約30人 → 約150人
+【当時の社員数】約30人 → 約200人
 
 #### 所属・役職
 - 2024/02 - 現在: プロダクト本部 プラットフォームグループ マネージャー
@@ -162,6 +162,7 @@ SNS
 -------
 |Date|Event|Type|Slide|
 |---|---|---|---|
+|2024/4/23|[学生向けサイバーセキュリティイベント「P3NFEST」を振り返る会](https://boost.connpass.com/event/315282/)|パネルディスカッション(20分)|-|
 |2019/6/12|[Media-JAWS #2](https://media-jaws.doorkeeper.jp/events/91677)|セッション(10分)|[VODのディザスタリカバリをAWSで考えてみる](https://speakerdeck.com/tinoji/vodfalsedeizasutarikabariwoawsdekao-etemiru)|
 |2019/4/24|[Media-JAWS #1](https://media-jaws.doorkeeper.jp/events/89643)|LT(10分)|[ちょっと冷や汗かいたけどAWS MediaLiveは最高！って話 - Speaker Deck](https://speakerdeck.com/tinoji/tiyotutoleng-yahan-kaitakedoaws-medialivehazui-gao-tutehua)|
 |2018/12/17|[第4回 HashiCorp User Group Meetup](https://hashicorp.connpass.com/event/110653/)|セッション(20分)|[DMM動画の可用性を支えるConsul - Speaker Deck](https://speakerdeck.com/tinoji/dmmdong-hua-falseke-yong-xing-wozhi-eruconsul)|
@@ -173,13 +174,14 @@ SNS
 -------
 |Date|Article|
 |---|---|
+|2024/5|[学生向けバグバウンティイベント P3NFEST にプログラムを提供しました！](https://nealle-dev.hatenablog.com/entry/2024/05/07/170601)|
+|2024/3|[ニーリーのテックブログを始めました！](https://nealle-dev.hatenablog.com/entry/2024/03/26/101533)|
+|2023/12|[ニーリーのSREによるリリースサイクルの改善〜「隔週深夜1回→1日2回」にリリース頻度を向上させた道のり〜](https://note.nealle.com/n/nf273f989ee3c)|
+|2023/12|[SREチーム発足から2年間の取り組み〜急成長するモビリティSaaSで信頼性とアジリティの両立を目指す～](https://note.nealle.com/n/n530c5238836d)|
+|2023/10|[去年SREチームで合宿に行ってました〜1年後どんな効果が得られたのかレポ〜](https://note.nealle.com/n/n2b919c485b60)|
+|2023/5|[エンジニア対談　開発組織の魅力”熱量と冷静さの共存”とは？](https://note.nealle.com/n/nf9411dddf5fc)|
 |2019/5|[慶應義塾大学KCSxDMM 合同LT会レポート](https://inside.dmm.com/entry/2019/05/22/kcs-dmm-lt)|
 |2018/10|[DMM動画サービスの問題を解決しようとしている話（再生URL生成API編）](https://inside.dmm.com/entry/2018/10/17/create-playurl)|
-|2022/7|[「ニーリーでエンジニアをしたい」そう思われる組織を作りたい。DMMからニーリーへジョイン。開発チームリーダーの菊地さんへインタビュー](https://note.nealle.com/n/n9c54c21ace05)|
-|2023/5|[エンジニア対談　開発組織の魅力”熱量と冷静さの共存”とは？](https://note.nealle.com/n/nf9411dddf5fc)|
-|2023/10|[去年SREチームで合宿に行ってました〜1年後どんな効果が得られたのかレポ〜](https://note.nealle.com/n/n2b919c485b60)|
-|2023/12|[SREチーム発足から2年間の取り組み〜急成長するモビリティSaaSで信頼性とアジリティの両立を目指す～](https://note.nealle.com/n/n530c5238836d)|
-|2023/12|[ニーリーのSREによるリリースサイクルの改善〜「隔週深夜1回→1日2回」にリリース頻度を向上させた道のり〜](https://note.nealle.com/n/nf273f989ee3c)|
 
 <br>
 
@@ -188,6 +190,7 @@ SNS
 -------
 |Date|Article|
 |---|---|
+|2022/7|[「ニーリーでエンジニアをしたい」そう思われる組織を作りたい。DMMからニーリーへジョイン。開発チームリーダーの菊地さんへインタビュー](https://note.nealle.com/n/n9c54c21ace05)|
 |2020/1|[よんでますよ、野秋さん #4 (対談)](https://inside.dmm.com/entry/2020/01/23/yondemasu04)|
 |2019/7|[Media-JAWSで聞いた視聴者参加型コンテンツとVODの災害対策](https://ascii.jp/elem/000/001/893/1893281/)|
 
